@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+
+h1{
+    color: darkred;
+    text-align: center;
+}
+
+h2{
+    color: darkblue;
+}
+
+p{
+    font-size: 18px;
+}
+
+ul{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+table{
+    width: 50%;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: darkred;
+    color: white;
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+button{
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: darkgreen;
+}
